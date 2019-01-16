@@ -9,5 +9,4 @@ I can be contacted via email using the following addresses:
 - candra.setiawan[at]students.itb.ac.id
 
 ### Hands on
-My hand on lab
 See my [My hand on lab](/hands_on_lab/)
