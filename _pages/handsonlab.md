@@ -1,7 +1,7 @@
 ---
 layout: posts
 permalink: /hands-on-lab/
-title: "BGP Vyatta"
+title: "My Hands on Lab"
 author_profile: true
 header:
   image: "/images/danaukaolin.jpg"
