@@ -1,10 +1,10 @@
 ---
-title: "Data Wrangling Project"
+title: "BGP with Vyatta and Mikrotik"
 date: 2018-01-28
-tags: [data wrangling, data science, messy data]
+tags: [BGP, Vyatta, Mikrotik, VMWare]
 header:
-  image: "/images/perceptron/percept.jpg"
-excerpt: "Data Wrangling, Data Science, Messy Data"
+  image: "/images/bgp/bgpvyatta.jpg"
+excerpt: "BGP, Vyatta, Mikrotik, VMWare"
 mathjax: "true"
 ---
 
