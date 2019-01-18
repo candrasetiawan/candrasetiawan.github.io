@@ -8,56 +8,8 @@ excerpt: "BGP, Vyatta, Mikrotik, VMWare"
 mathjax: "true"
 ---
 
-# H1 Heading
+## Permodelan routing BGP sederhana menggunakan Vyatta dan Mikrotik dengan Private
+AS pada Jaringan Intranet
 
-## H2 Heading
+BGP atau Border Gateway Protocol routing Protocol yang menghubungkan antar AS (autonomous System) yang sama IBGP (Interior Border Gateway Protocol) atau antar AS yang berbeda EBGP (Exterior Border Gateway Protocol). BGP telah terbukti scalable, stabil dan menyediakan mekanisme yang diperlukan untuk mendukung routing yang kompleks. Pada permodelan kali ini kita akan menggunakan BGP dengan redistribute OSPF dan untuk Autonomous System Number yang dipergunakan maka kita akan menggunakan Private AS 64512 sampai 65534 yang dapat digunakan untuk tujuan pribadi seperti halnya Private IP address.
 
-### H3 Heading
-
-Here's some basic text.
-
-And here's some *italics*
-
-Here's some **bold** text.
-
-What about a [link](https://github.com/dataoptimal)?
-
-Here's a bulleted list:
-* First item
-+ Second item
-- Third item
-
-Here's a numbered list:
-1. First
-2. Second
-3. Third
-
-Python code block:
-```python
-    import numpy as np
-
-    def test_function(x, y):
-      z = np.sum(x,y)
-      return z
-```
-
-R code block:
-```r
-library(tidyverse)
-df <- read_csv("some_file.csv")
-head(df)
-```
-
-Here's some inline code `x+y`.
-
-Here's an image:
-<img src="{{ site.url }}{{ site.baseurl }}/images/perceptron/linsep.jpg" alt="linearly separable data">
-
-Here's another image using Kramdown:
-![alt]({{ site.url }}{{ site.baseurl }}/images/perceptron/linsep.jpg)
-
-Here's some math:
-
-$$z=x+y$$
-
-You can also put it inline $$z=x+y$$
