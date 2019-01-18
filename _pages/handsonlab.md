@@ -1,10 +1,10 @@
 ---
 layout: archive
-permalink: hands-on-lab
+permalink: /hands-on-lab/
 title: "Hands on Lab Posts by Tags"
 author_profile: true
 header:
-  image: "/images/danaukaolin.png"
+  image: "/images/danaukaolin.jpg"
 ---
 {% include base_path %}
 {% include group-by-array collection=site.posts fields="tags" %}
