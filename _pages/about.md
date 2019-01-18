@@ -14,8 +14,7 @@ I am someone who really likes computer networks field, and explores those fields
 * Lecturer of STMIK Indo Global Mandiri Palembang (2003-2005) 
 * Head of Engineer CV Digital International Raya (2004-2005) 
 * Lecturer of Computer Science Sriwijaya University – Teaching for Networking System Course (2005 – to present) 
-* System Integrator of Sriwijaya University – Planning, Design, Implementation,
-* Monitoring, Troubleshooting, and Improvement (2008-to present)
+* System Integrator of Sriwijaya University – Planning, Design, Implementation, Monitoring, Troubleshooting, and Improvement (2008-to present)
 * Instructors for the Cisco Networking Academy Program Faculty of Computer Science UNSRI for materials Exploration 1, 2, 3, and 4 (2006-to present) 
 * System Administrator for Sumsel Government (2010-2011) 
 * System Administrator for Indo Global Mandiri University (2015 – to Present) 
