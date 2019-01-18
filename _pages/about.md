@@ -23,3 +23,6 @@ I am someone who really likes computer networks field, and explores those fields
 ### Interest: 
 * Linux and other open source system 
 * Cisco Router and Cisco Switch 
+
+### About my family:
+I am a husband from Rika Kemala and father of a daughter and two sons. My first daughter was named Maura Cantyqa Candra, 10 years old. My second son was named Raffa Ragahdo Candra, 8 years old. And my last son was named Muhammad Kenzie Arsenio Candra, aged 6 years.
