@@ -84,6 +84,8 @@ naver_site_verification  :
 # Social Sharing
 twitter:
   username               :
+linkedin:
+  username               : "candra-setiawan-579a5331"
 facebook:
   username               :
   app_id                 :
@@ -110,7 +112,7 @@ author:
   avatar           : "/images/candra.jpg"
   bio              : "Hands on Lab Portfolio"
   location         : "Bandung, Indonesia"
-  email            :
+  email            : "candrasetiawan@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
