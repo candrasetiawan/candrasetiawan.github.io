@@ -1,0 +1,85 @@
+{
+    "gunung":[
+        {
+            "namaGunung":"Bukit Tunggul",
+            "ketinggian":"2209 m",
+            "statusAktif":"tidak aktif",
+            "gambar":"Bukit Tunggul.jpg",
+            "namaLokasi":"Bandung Utara",
+            "description":"Bukit Tunggul, Burangrang, Tangkuban Perahu sisa dari letusan besar Gunung Sunda"
+        },
+        {
+            "namaGunung":"Burangrang",
+            "ketinggian":"2064 m",
+            "statusAktif":"tidak aktif",
+            "gambar":"Burangrang.jpg",
+            "namaLokasi":"Bandung Utara",
+            "description":"Bukit Tunggul, Burangrang, Tangkuban Perahu sisa dari letusan besar Gunung Sunda"
+        },
+        {
+            "namaGunung":"Tangkuban Perahu",
+            "ketinggian":"2084 m",
+            "statusAktif":"aktif",
+            "gambar":"Tangkuban Perahu.jpg",
+            "namaLokasi":"Bandung Utara",
+            "description":"Bukit Tunggul, Burangrang, Tangkuban Perahu sisa dari letusan besar Gunung Sunda"
+        },
+        {
+            "namaGunung":"Gede",
+            "ketinggian":"2958 m",
+            "statusAktif":"tidak aktif",
+            "gambar":"Gede.jpg",
+            "namaLokasi":"Kabupaten Bogor, Kabupaten Cianjur dan Kabupaten Sukabumi",
+            "description":"Gede, Pangrango, dan Salak"
+        },
+        {
+            "namaGunung":"Pangrango",
+            "ketinggian":"3019 m",
+            "statusAktif":"tidak aktif",
+            "gambar":"Pangrango.jpg",
+            "namaLokasi":"Kabupaten Bogor, Kabupaten Cianjur dan Kabupaten Sukabumi",
+            "description":"Gede, Pangrango, dan Salak"
+        },
+        {
+            "namaGunung":"Salak",
+            "ketinggian":"2211 m",
+            "statusAktif":"tidak aktif",
+            "gambar":"Salak.jpg",
+            "namaLokasi":"Kabupaten Bogor, Kabupaten Cianjur dan Kabupaten Sukabumi",
+            "description":"Gede, Pangrango, dan Salak"
+        },
+        {
+            "namaGunung":"Galunggung",
+            "ketinggian":"2158 m",
+            "statusAktif":"aktif",
+            "gambar":"Galunggung.jpg",
+            "namaLokasi":"Kabupaten Tasikmalaya",
+            "description":"Gunung Galunggung pernah beberapa kali meletus dan merupakan bencana alam yang cukup besar karena menewaskan ribuan jiwa"
+        },
+        {
+            "namaGunung":"Ciremai",
+            "ketinggian":"3078 m",
+            "statusAktif":"aktif",
+            "gambar":"Ciremai.jpg",
+            "namaLokasi":"Kabupaten Kuningan dan Kabupaten Majalengka",
+            "description":"Taman Nasional Gunung Ceremai yang luasnya mencapai 15000 hektar"
+        },
+        {
+            "namaGunung":"Papandayan",
+            "ketinggian":"2665 m",
+            "statusAktif":"tidak aktif",
+            "gambar":"Papandayan.jpg",
+            "namaLokasi":"Kabupaten Garut",
+            "description":"Gunung Papandayan, Kamojang"
+
+        },
+        {
+            "namaGunung":"Kamojang",
+            "ketinggian":"1730 m",
+            "statusAktif":"tidak aktif",
+            "gambar":"Kamojang.jpg",
+            "namaLokasi":"Kabupaten Garut",
+            "description":"Gunung Papandayan, Kamojang"
+        }
+    ]
+}
