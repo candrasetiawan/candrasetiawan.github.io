@@ -1,10 +1,3 @@
-<?php
-$data = file_get_contents('data/db.json');
-$gunung = json_decode($data, true);
-
-$gunung = $gunung["gunung"];
-?>
-
 <!doctype html>
 <html lang="en">
   <head>
@@ -18,6 +11,12 @@ $gunung = $gunung["gunung"];
     <title>Data Gunung</title>
   </head>
   <body>
+<?php
+$data = file_get_contents('data/db.json');
+$gunung = json_decode($data, true);
+
+$gunung = $gunung["gunung"];
+?>
   
     <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
     <div class="container">
