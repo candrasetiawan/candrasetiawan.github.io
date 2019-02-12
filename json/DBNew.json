@@ -1,5 +1,5 @@
 {
-    "datas":[
+    "data":[
         {
             "id":1,
             "namaGunung":"Bukit Tunggul",
@@ -71,7 +71,7 @@
             "lokasiID":5
         }
     ],
-    "lokasis":[
+    "lokasi":[
         {
             "id":1,
             "namaLokasi":"Bandung Utara",
